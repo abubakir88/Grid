@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nav-logo a img {
+  width: 30px;
+}
+
+.flower {
+  width: 30px;
+  height: 30px;
+}
+
+.card-img img:hover {
+  transition: 0.9s;
+  transform: scale(1.2);
+}
+
+.card-img {
+  opacity: 0.7;
+}/*# sourceMappingURL=style.css.map */
